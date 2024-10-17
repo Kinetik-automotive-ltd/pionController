@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "e55e5f3f-f84a-4dfe-8a7c-aaed4e0ab397")
+	(uuid "3f48f0cb-1343-4f17-b9ad-c3430af865f9")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
@@ -2569,17 +2569,6 @@
 			(type default)
 		)
 		(uuid "ffebdd71-11fd-429b-8ae1-83e481a268d3")
-	)
-	(label "Vbus"
-		(at 58.42 34.29 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "de484d46-7d15-4927-b0e0-d0c916a1dce4")
 	)
 	(global_label "CAN_CRIT_H"
 		(shape input)
