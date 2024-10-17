@@ -1,4 +1,7 @@
 (fp_lib_table
   (version 7)
   (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/russi/Documents/kinetic/KiCad/digikey-kicad-library-8/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "CONN_S2B-XH")(type "KiCad")(uri "${KIPRJMOD}/libs/CONN_S2B-XH.pretty")(options "")(descr ""))
+  (lib (name "SMB10")(type "KiCad")(uri "${KIPRJMOD}/libs/SMB10.pretty")(options "")(descr ""))
+  (lib (name "FTSH")(type "KiCad")(uri "${KIPRJMOD}/libs/FTSH.pretty")(options "")(descr ""))
 )

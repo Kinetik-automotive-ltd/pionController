@@ -3419,17 +3419,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 36.83 54.61 0)
+		(lib_id "Device:C_Small")
+		(at 137.16 107.95 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0d13fbcc-6da7-45fb-b4b7-ab179db4f2a3")
-		(property "Reference" "#PWR02"
-			(at 36.83 60.96 0)
+		(uuid "0bafeb2d-bcfb-41fb-a910-fc77ecd5bdde")
+		(property "Reference" "C9"
+			(at 139.7 106.6735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 139.7 109.2135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 137.16 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3437,16 +3455,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND_CAR"
-			(at 36.83 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 36.83 54.61 0)
+		(property "Datasheet" "~"
+			(at 137.16 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3454,8 +3464,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 36.83 54.61 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 137.16 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3463,8 +3473,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 36.83 54.61 0)
+		(property "LCSC" "C914769"
+			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CC0603KRX7R7BB225"
+			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 137.16 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3473,12 +3501,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9f669973-b12c-477e-a3cb-bf1aafd339dc")
+			(uuid "f85d5e00-5eb3-41b9-91f5-b737990fffd8")
+		)
+		(pin "2"
+			(uuid "1c928aa6-ef00-4094-9d6a-309a87828108")
 		)
 		(instances
-			(project ""
+			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
-					(reference "#PWR02")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -3835,94 +3866,6 @@
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
 					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 190.5 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3429c464-fa3f-4094-bc14-17b28c71f4a7")
-		(property "Reference" "C10"
-			(at 193.04 105.4162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.2uF"
-			(at 193.04 107.9562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.5 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 190.5 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 190.5 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 190.5 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 190.5 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "60eca366-d360-4372-a0b1-4fb1bba0e8e0")
-		)
-		(pin "2"
-			(uuid "0665d915-b043-428a-93fd-3706722d092a")
-		)
-		(instances
-			(project "PionController"
-				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
-					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -4364,94 +4307,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 137.16 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "52c08699-9e4e-4604-95ec-7e3260de8bff")
-		(property "Reference" "C9"
-			(at 139.7 106.6862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.2uF"
-			(at 139.7 109.2262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 137.16 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 137.16 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 137.16 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ba08466e-65c7-4198-907a-d14e527f30d7")
-		)
-		(pin "2"
-			(uuid "11b1cd14-52c8-4aca-9286-fe7b2ffa5b65")
-		)
-		(instances
-			(project ""
-				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
-					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 99.06 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4645,6 +4500,103 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 190.5 106.68 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "695d46d9-774f-4904-b14b-542626878eff")
+		(property "Reference" "C10"
+			(at 193.04 105.4035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 193.04 107.9435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 190.5 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 190.5 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 190.5 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C914769"
+			(at 190.5 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CC0603KRX7R7BB225"
+			(at 190.5 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 190.5 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "adac12bc-3735-4e0d-b046-8b50fc27caf1")
+		)
+		(pin "2"
+			(uuid "6f7facc9-dbeb-4a40-ad35-a935aefdc749")
+		)
+		(instances
+			(project "PionController"
+				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 198.12 97.79 0)
 		(unit 1)
@@ -4771,6 +4723,72 @@
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 36.83 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75ce3b8f-acf8-41ab-9cc0-b221e72038f4")
+		(property "Reference" "#PWR02"
+			(at 36.83 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 36.83 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 36.83 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f86a43dc-6f53-4867-a394-edd9d66f76f1")
+		)
+		(instances
+			(project "PionController"
+				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)

@@ -6,6 +6,44 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 198.12 17.78)
+		(size 39.37 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "02ee3ca7-0887-483c-b972-88060fd825f1")
+		(property "Sheetname" "CAN"
+			(at 198.12 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 198.12 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PionController"
+				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 245.11 59.69)
 		(size 35.56 50.8)
 		(fields_autoplaced yes)
@@ -86,6 +124,44 @@
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 199.39 60.96)
+		(size 38.1 49.53)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f29feb91-ec20-4559-a064-9c2ef57165cc")
+		(property "Sheetname" "Connectors"
+			(at 199.39 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 199.39 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PionController"
+				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad"
+					(page "5")
 				)
 			)
 		)
