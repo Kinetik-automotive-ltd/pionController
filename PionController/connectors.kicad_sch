@@ -2592,7 +2592,7 @@
 			)
 		)
 	)
-	(global_label "RGB_CH_4"
+	(global_label "RGB_CH_1"
 		(shape input)
 		(at 191.77 50.8 0)
 		(fields_autoplaced yes)
@@ -2636,7 +2636,7 @@
 			)
 		)
 	)
-	(global_label "RGB_CH_3"
+	(global_label "RGB_CH_2"
 		(shape input)
 		(at 191.77 48.26 0)
 		(fields_autoplaced yes)
@@ -2680,7 +2680,7 @@
 			)
 		)
 	)
-	(global_label "RGB_CH_2"
+	(global_label "RGB_CH_3"
 		(shape input)
 		(at 191.77 45.72 0)
 		(fields_autoplaced yes)
@@ -2702,7 +2702,7 @@
 			)
 		)
 	)
-	(global_label "RGB_CH_1"
+	(global_label "RGB_CH_4"
 		(shape input)
 		(at 191.77 43.18 0)
 		(fields_autoplaced yes)
