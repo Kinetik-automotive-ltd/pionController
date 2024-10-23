@@ -1,0 +1,683 @@
+2024-10-23 12:33:50 [INFO] AnycubicPhotonWorkshop start!
+2024-10-23 12:33:50 [INFO] argc:  2
+2024-10-23 12:33:50 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-10-23 12:33:50 [WARN] Successfully init crashpad
+2024-10-23 12:33:50 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-10-23 12:33:51 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-10-23 12:33:51 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-10-23 12:33:51 [INFO] Load plugin org.commontk.eventadmin success.
+2024-10-23 12:33:51 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-10-23 12:33:51 [INFO] Install Plugin Success!
+2024-10-23 12:33:51 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-10-23 12:33:51 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-10-23 12:33:51 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-10-23 12:33:51 [INFO] Install Plugin Success!
+2024-10-23 12:33:51 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono X) init success.
+2024-10-23 12:33:51 [INFO] loadMachineParamRange is success.
+2024-10-23 12:33:51 [INFO] loadMachineResinType is success.
+2024-10-23 12:33:51 [INFO] loadMachineResinName is success.
+2024-10-23 12:33:51 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-10-23 12:33:51 [INFO] Install Plugin Success!
+2024-10-23 12:33:52 [INFO] "current server is testserver. 0"
+2024-10-23 12:33:52 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-10-23 12:33:52 [INFO] QmlFactory 0.093 s
+2024-10-23 12:33:52 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-10-23 12:33:52 [INFO] Install Plugin Success!
+2024-10-23 12:33:52 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-10-23 12:33:52 [INFO] Install Plugin Success!
+2024-10-23 12:33:52 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-10-23 12:33:52 [INFO] Install Plugin Success!
+2024-10-23 12:33:52 [WARN] ACCloudDataModel::ACCloudDataModel, importTempPath = C:/Users/russi/AppData/Local/Temp/ac_cloud/, dowloadPath = C:/Users/russi/Downloads/ac_cloud/
+2024-10-23 12:33:52 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-10-23 12:33:52 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-10-23 12:33:52 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-10-23 12:33:52 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-02-28 17:54:44, git_brance = release/pws3.3, git_hash = d70c34a, git_commit = 2024-02-28
+2024-10-23 12:33:52 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-10-23 12:33:52 [INFO] Install Plugin Success!
+2024-10-23 12:33:52 [WARN] Translation::changedSystemLanguage, language = 0
+2024-10-23 12:33:52 [WARN] register  GizmoController
+2024-10-23 12:33:53 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-10-23 12:33:53 [WARN] enableMenuShortcut menushort cut: 0
+2024-10-23 12:33:53 [INFO] uiState:  false
+2024-10-23 12:33:53 [WARN] enableMenuShortcut menushort cut: 0
+2024-10-23 12:33:53 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:53 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:53 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:53 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:53 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:53 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:53 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:53 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:53 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:53 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:53 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:53 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:53 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:53 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:53 [WARN] xChanged 1
+2024-10-23 12:33:53 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-10-23 12:33:53 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-10-23 12:33:53 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-10-23 12:33:53 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 231
+2024-10-23 12:33:53 [INFO] uiState:  true
+2024-10-23 12:33:54 [WARN] creating renderer
+2024-10-23 12:33:54 [WARN] printer valid --:  96 60
+2024-10-23 12:33:54 [WARN] printer build --:  96 60
+2024-10-23 12:33:54 [WARN] deltaX -- :  0
+2024-10-23 12:33:54 [WARN] deltaY -- :  0
+2024-10-23 12:33:54 [WARN] machine boarder width 2-------------------- 
+2024-10-23 12:33:54 [WARN] create planar shadow node
+2024-10-23 12:33:54 [WARN] loadGizmoRotationHead OK 576
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "\"CollectedCoordinateSystemNodesVisitor\""
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "ComputeBoundsVisitor"
+2024-10-23 12:33:54 [INFO]  camera_manipulator::home
+2024-10-23 12:33:54 [INFO]  camera_manipulator::home/ComputeBound
+2024-10-23 12:33:54 [INFO]  camera_manipulator::home
+2024-10-23 12:33:54 [INFO]  camera_manipulator::home/ComputeBound
+2024-10-23 12:33:54 [INFO]  camera_manipulator::home/BoundingSphere
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO]  camera_manipulator::home/udpate_view
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "GLObjectsVisitor"
+2024-10-23 12:33:54 [WARN] GL Verison:  0x1f54a1a00a0
+2024-10-23 12:33:54 [WARN] GL Renderer:  0x1f54a1f7b74
+2024-10-23 12:33:54 [WARN] compile shader program ok
+2024-10-23 12:33:54 [WARN] compile shader program ok
+2024-10-23 12:33:54 [WARN] compile shader program ok
+2024-10-23 12:33:54 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-10-23 12:33:54 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:54 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:54 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:54 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:54 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:54 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:54 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-10-23 12:33:54 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-10-23 12:33:54 [INFO] send post data success!
+2024-10-23 12:33:54 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE4\xBF\x9D\xE5\x8A\xA0\xE5\x88\xA9\xE4\xBA\x9A\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"af6c444f8dbc006df7f547801d21fd5e\",\n    \"printerType\": \"\",\n    \"province\": \"Sofia\",\n    \"timestamp\": 1729676034,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] parseImportFiles model files: C:\Users\russi\Documents\GitHub\pionController\PionController\libs\SM10B-ULHK-1TA1-ETB_HF_.stp
+2024-10-23 12:33:54 [INFO] parseImportFiles model files: C:\Users\russi\Documents\GitHub\pionController\PionController\libs\SM10B-ULHK-1TA1-ETB_HF_.stp
+2024-10-23 12:33:54 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\russi\Documents\GitHub\pionController\PionController\libs\SM10B-ULHK-1TA1-ETB_HF_.stp, modelQualityChecked = true
+2024-10-23 12:33:54 [INFO] "start check autoUpdater!"
+2024-10-23 12:33:54 [WARN] -slot_closeGizmoWhenLoadModel
+2024-10-23 12:33:54 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:54 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:54 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:54 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:54 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:54 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:54 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:33:55 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:33:55 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:33:55 [INFO] uiState:  false
+2024-10-23 12:33:55 [WARN] enableMenuShortcut menushort cut: 8
+2024-10-23 12:33:55 [INFO] uiState:  true
+2024-10-23 12:33:55 [WARN] enableMenuShortcut menushort cut: 0
+2024-10-23 12:33:55 [INFO] "doReportImportModelResult!"
+2024-10-23 12:33:55 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"SM10B-ULHK-1TA1-ETB_HF_\",\n            \"fileSize\": 200630,\n            \"fileType\": \"stp\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-10-23 12:33:55 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 231
+2024-10-23 12:33:55 [WARN] gizmo emit sceneModelChanged
+2024-10-23 12:33:55 [INFO] uiState:  false
+2024-10-23 12:33:55 [WARN] enableMenuShortcut menushort cut: 8
+2024-10-23 12:33:55 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono X"
+2024-10-23 12:33:55 [INFO] uiState:  true
+2024-10-23 12:33:55 [WARN] enableMenuShortcut menushort cut: 0
+2024-10-23 12:33:55 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE4\xBF\x9D\xE5\x8A\xA0\xE5\x88\xA9\xE4\xBA\x9A\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"af6c444f8dbc006df7f547801d21fd5e\",\n    \"printerType\": \"\",\n    \"province\": \"Sofia\",\n    \"timestamp\": 1729676035,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-10-23 12:33:55 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-10-23 12:33:55 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:33:55 [INFO] get_model_height() osg_model_group
+2024-10-23 12:33:55 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:33:55 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:33:55 [INFO] send post data success!
+2024-10-23 12:33:56 [INFO] uiState:  false
+2024-10-23 12:33:56 [INFO] send post data success!
+2024-10-23 12:36:05 [INFO] uiState:  true
+2024-10-23 12:36:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:36:08 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:36:10 [INFO] scene modifyed:  true
+2024-10-23 12:36:10 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:36:10 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:36:10 [INFO] uiState:  false
+2024-10-23 12:36:11 [INFO] uiState:  true
+2024-10-23 12:36:11 [INFO] save support file is success!
+2024-10-23 12:36:12 [INFO] AnycubicPhotonWorkshop end!
+2024-10-23 12:36:12 [WARN] QThreadStorage: Thread 0x1f53652e7d0 exited after QThreadStorage 7 destroyed
+2024-10-23 12:46:58 [INFO] AnycubicPhotonWorkshop start!
+2024-10-23 12:46:58 [INFO] argc:  2
+2024-10-23 12:46:58 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-10-23 12:46:58 [WARN] Successfully init crashpad
+2024-10-23 12:46:59 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-10-23 12:46:59 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-10-23 12:46:59 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-10-23 12:46:59 [INFO] Load plugin org.commontk.eventadmin success.
+2024-10-23 12:46:59 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-10-23 12:46:59 [INFO] Install Plugin Success!
+2024-10-23 12:46:59 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-10-23 12:46:59 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-10-23 12:46:59 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-10-23 12:46:59 [INFO] Install Plugin Success!
+2024-10-23 12:46:59 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono X) init success.
+2024-10-23 12:46:59 [INFO] loadMachineParamRange is success.
+2024-10-23 12:46:59 [INFO] loadMachineResinType is success.
+2024-10-23 12:46:59 [INFO] loadMachineResinName is success.
+2024-10-23 12:46:59 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-10-23 12:46:59 [INFO] Install Plugin Success!
+2024-10-23 12:46:59 [INFO] "current server is testserver. 0"
+2024-10-23 12:46:59 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-10-23 12:46:59 [INFO] QmlFactory 0.011 s
+2024-10-23 12:46:59 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-10-23 12:46:59 [INFO] Install Plugin Success!
+2024-10-23 12:46:59 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-10-23 12:46:59 [INFO] Install Plugin Success!
+2024-10-23 12:46:59 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-10-23 12:46:59 [INFO] Install Plugin Success!
+2024-10-23 12:46:59 [WARN] ACCloudDataModel::ACCloudDataModel, importTempPath = C:/Users/russi/AppData/Local/Temp/ac_cloud/, dowloadPath = C:/Users/russi/Downloads/ac_cloud/
+2024-10-23 12:46:59 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-10-23 12:46:59 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-10-23 12:46:59 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-10-23 12:46:59 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-02-28 17:54:44, git_brance = release/pws3.3, git_hash = d70c34a, git_commit = 2024-02-28
+2024-10-23 12:46:59 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-10-23 12:46:59 [INFO] Install Plugin Success!
+2024-10-23 12:46:59 [WARN] Translation::changedSystemLanguage, language = 0
+2024-10-23 12:46:59 [WARN] register  GizmoController
+2024-10-23 12:46:59 [WARN] enableMenuShortcut menushort cut: 0
+2024-10-23 12:46:59 [INFO] uiState:  false
+2024-10-23 12:46:59 [WARN] enableMenuShortcut menushort cut: 0
+2024-10-23 12:46:59 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:46:59 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:46:59 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:46:59 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:46:59 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:46:59 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:46:59 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:46:59 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:46:59 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:46:59 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:46:59 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:46:59 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:46:59 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:46:59 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] xChanged 1
+2024-10-23 12:47:00 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-10-23 12:47:00 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-10-23 12:47:00 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-10-23 12:47:00 [INFO] uiState:  true
+2024-10-23 12:47:00 [WARN] creating renderer
+2024-10-23 12:47:00 [WARN] printer valid --:  96 60
+2024-10-23 12:47:00 [WARN] printer build --:  96 60
+2024-10-23 12:47:00 [WARN] deltaX -- :  0
+2024-10-23 12:47:00 [WARN] deltaY -- :  0
+2024-10-23 12:47:00 [WARN] machine boarder width 2-------------------- 
+2024-10-23 12:47:00 [WARN] create planar shadow node
+2024-10-23 12:47:00 [WARN] loadGizmoRotationHead OK 576
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "\"CollectedCoordinateSystemNodesVisitor\""
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "ComputeBoundsVisitor"
+2024-10-23 12:47:00 [INFO]  camera_manipulator::home
+2024-10-23 12:47:00 [INFO]  camera_manipulator::home/ComputeBound
+2024-10-23 12:47:00 [INFO]  camera_manipulator::home
+2024-10-23 12:47:00 [INFO]  camera_manipulator::home/ComputeBound
+2024-10-23 12:47:00 [INFO]  camera_manipulator::home/BoundingSphere
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO]  camera_manipulator::home/udpate_view
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "GLObjectsVisitor"
+2024-10-23 12:47:00 [WARN] GL Verison:  0x146233500a0
+2024-10-23 12:47:00 [WARN] GL Renderer:  0x146233a7b74
+2024-10-23 12:47:00 [WARN] compile shader program ok
+2024-10-23 12:47:00 [WARN] compile shader program ok
+2024-10-23 12:47:00 [WARN] compile shader program ok
+2024-10-23 12:47:00 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-10-23 12:47:00 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-10-23 12:47:00 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] parseImportFiles model files: C:\Users\russi\Documents\GitHub\pionController\PionController\libs\RTL8188FTV.STEP
+2024-10-23 12:47:00 [INFO] parseImportFiles model files: C:\Users\russi\Documents\GitHub\pionController\PionController\libs\RTL8188FTV.STEP
+2024-10-23 12:47:00 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\russi\Documents\GitHub\pionController\PionController\libs\RTL8188FTV.STEP, modelQualityChecked = true
+2024-10-23 12:47:00 [INFO] "start check autoUpdater!"
+2024-10-23 12:47:00 [WARN] -slot_closeGizmoWhenLoadModel
+2024-10-23 12:47:00 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-10-23 12:47:00 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 231
+2024-10-23 12:47:00 [INFO] send post data success!
+2024-10-23 12:47:00 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE4\xBF\x9D\xE5\x8A\xA0\xE5\x88\xA9\xE4\xBA\x9A\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"af6c444f8dbc006df7f547801d21fd5e\",\n    \"printerType\": \"\",\n    \"province\": \"Sofia\",\n    \"timestamp\": 1729676820,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:00 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:00 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:01 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:01 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:01 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:01 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:01 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:01 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:01 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:01 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:01 [INFO] uiState:  false
+2024-10-23 12:47:01 [WARN] enableMenuShortcut menushort cut: 8
+2024-10-23 12:47:01 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-10-23 12:47:01 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 231
+2024-10-23 12:47:01 [INFO] send post data success!
+2024-10-23 12:47:01 [INFO] uiState:  false
+2024-10-23 12:47:01 [INFO] uiState:  false
+2024-10-23 12:47:01 [WARN] enableMenuShortcut menushort cut: 136
+2024-10-23 12:47:01 [INFO] uiState:  false
+2024-10-23 12:47:01 [WARN] enableMenuShortcut menushort cut: 128
+2024-10-23 12:47:01 [INFO] "doReportImportModelResult!"
+2024-10-23 12:47:01 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"RTL8188FTV\",\n            \"fileSize\": 3398143,\n            \"fileType\": \"STEP\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-10-23 12:47:01 [WARN] gizmo emit sceneModelChanged
+2024-10-23 12:47:01 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-10-23 12:47:01 [INFO] uiState:  false
+2024-10-23 12:47:01 [WARN] enableMenuShortcut menushort cut: 136
+2024-10-23 12:47:01 [INFO] uiState:  false
+2024-10-23 12:47:01 [WARN] enableMenuShortcut menushort cut: 128
+2024-10-23 12:47:01 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono X"
+2024-10-23 12:47:01 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE4\xBF\x9D\xE5\x8A\xA0\xE5\x88\xA9\xE4\xBA\x9A\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"af6c444f8dbc006df7f547801d21fd5e\",\n    \"printerType\": \"\",\n    \"province\": \"Sofia\",\n    \"timestamp\": 1729676821,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-10-23 12:47:02 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:47:02 [INFO] get_model_height() osg_model_group
+2024-10-23 12:47:02 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:47:02 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:47:02 [INFO] send post data success!
+2024-10-23 12:47:02 [INFO] uiState:  false
+2024-10-23 12:47:04 [INFO] uiState:  true
+2024-10-23 12:47:04 [WARN] enableMenuShortcut menushort cut: 0
+2024-10-23 12:47:04 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:04 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:04 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:04 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:05 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:06 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:07 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:08 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:09 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:10 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-10-23 12:47:49 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-10-23 12:47:50 [INFO] scene modifyed:  true
+2024-10-23 12:47:50 [WARN] QFSFileEngine::open: No file name specified
+2024-10-23 12:47:50 [WARN] Cannot open file '', because: No file name specified
+2024-10-23 12:47:50 [INFO] uiState:  false
+2024-10-23 12:47:52 [INFO] uiState:  true
+2024-10-23 12:47:52 [INFO] save support file is success!
+2024-10-23 12:47:52 [INFO] AnycubicPhotonWorkshop end!
+2024-10-23 12:47:52 [WARN] QThreadStorage: Thread 0x1460fa8e8d0 exited after QThreadStorage 7 destroyed

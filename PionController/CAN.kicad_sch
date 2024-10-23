@@ -3469,7 +3469,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "041f4b08-2ac7-48b1-a9d8-acbc249c44ef")
-		(property "Reference" "CMC2"
+		(property "Reference" "CMC1"
 			(at 129.54 30.734 0)
 			(effects
 				(font
@@ -3555,7 +3555,7 @@
 		(instances
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/02ee3ca7-0887-483c-b972-88060fd825f1"
-					(reference "CMC2")
+					(reference "CMC1")
 					(unit 1)
 				)
 			)
@@ -3907,7 +3907,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3004592d-7cb3-4aea-bbbe-106cc1b71daa")
-		(property "Reference" "ESD3"
+		(property "Reference" "ESD2"
 			(at 176.276 127 90)
 			(effects
 				(font
@@ -3993,7 +3993,7 @@
 		(instances
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/02ee3ca7-0887-483c-b972-88060fd825f1"
-					(reference "ESD3")
+					(reference "ESD2")
 					(unit 1)
 				)
 			)
@@ -4497,6 +4497,10 @@
 		(instances
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/02ee3ca7-0887-483c-b972-88060fd825f1"
+					(reference "U4")
+					(unit 1)
+				)
+				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/9c944e10-f70f-4daf-a172-373cee634d1f"
 					(reference "U4")
 					(unit 1)
 				)
@@ -6079,7 +6083,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f52ea350-8ca4-478e-9f67-444752d2ed2b")
-		(property "Reference" "CMC3"
+		(property "Reference" "CMC2"
 			(at 128.27 96.774 0)
 			(effects
 				(font
@@ -6165,7 +6169,7 @@
 		(instances
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad/02ee3ca7-0887-483c-b972-88060fd825f1"
-					(reference "CMC3")
+					(reference "CMC2")
 					(unit 1)
 				)
 			)
