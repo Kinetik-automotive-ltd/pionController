@@ -913,7 +913,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "Power.kicad_sch"
 			(at 245.11 48.8446 0)
 			(effects
 				(font
