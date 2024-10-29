@@ -506,7 +506,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 25,
     "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -538,7 +538,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -611,6 +611,30 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser",
+          "name": "Mouser",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -664,12 +688,12 @@
       "Root"
     ],
     [
-      "6fe51849-1a5c-49f1-9578-fc97b76c841c",
-      "MCU"
-    ],
-    [
       "9c944e10-f70f-4daf-a172-373cee634d1f",
       "power"
+    ],
+    [
+      "6fe51849-1a5c-49f1-9578-fc97b76c841c",
+      "MCU"
     ],
     [
       "02ee3ca7-0887-483c-b972-88060fd825f1",

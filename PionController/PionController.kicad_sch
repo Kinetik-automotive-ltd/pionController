@@ -309,6 +309,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package/Footprint" ""
+			(at 127 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "N/A"
+			(at 127 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e776a069-2b76-4fdd-a5da-50d95ae415c9")
 		)
@@ -518,6 +536,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package/Footprint" ""
+			(at 152.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "N/A"
+			(at 152.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45e9f7f3-a9ac-48bf-a5e0-72396cfcb48d")
 		)
@@ -595,6 +631,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package/Footprint" ""
+			(at 152.4 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "N/A"
+			(at 152.4 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a70d28e-80fd-4258-acce-c42cedc59742")
 		)
@@ -664,6 +718,24 @@
 			)
 		)
 		(property "Manufacturer" ""
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package/Footprint" ""
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "N/A"
 			(at 127 52.07 0)
 			(effects
 				(font
@@ -887,7 +959,7 @@
 		(instances
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad"
-					(page "2")
+					(page "3")
 				)
 			)
 		)
@@ -934,7 +1006,7 @@
 		(instances
 			(project "PionController"
 				(path "/4c75befe-3f28-4e3b-aaa6-2731a1e568ad"
-					(page "3")
+					(page "2")
 				)
 			)
 		)
