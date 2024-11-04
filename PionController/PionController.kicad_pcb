@@ -132,9 +132,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Fabrication files/")
 		)
 	)
 	(net 0 "")
@@ -9464,7 +9464,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "1N5819W"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16510,7 +16510,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CA-IS3740HN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

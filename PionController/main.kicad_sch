@@ -7112,7 +7112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "1N5819W"
 			(at 130.81 33.02 0)
 			(effects
 				(font

@@ -4227,7 +4227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CA-IS3740HN"
 			(at 180.34 81.28 0)
 			(effects
 				(font
