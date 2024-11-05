@@ -134,7 +134,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../Fabrication files/")
+			(outputdirectory "../Fabrication files/GBR files/")
 		)
 	)
 	(net 0 "")
@@ -30592,6 +30592,31 @@
 			)
 		)
 	)
+	(gr_text "GND_car\nCOMM_CAN-L\nCOMM_CAN-H\nGND_car\nCRIT_CAN-L\nCRIT_CAN-H\nGND_car\nVcar\nVcar\nVcar"
+		(at 115.775 83.325 0)
+		(layer "F.SilkS")
+		(uuid "b9e689f3-fe36-4b16-ae99-90ae35d2260e")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+	)
+	(gr_text "  ERROR\nmissing CPU"
+		(at 145.125 88.95 0)
+		(layer "F.SilkS")
+		(uuid "f1dc2bb5-0b18-4e4d-baa5-7382be77f857")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 124.7892 120.0523)
 		(end 126.7892 120.0523)
@@ -32893,6 +32918,14 @@
 		(layers "F.Cu" "B.Cu")
 		(net 68)
 		(uuid "ff8ebd0f-5888-4145-a470-3fef7f2f02b6")
+	)
+	(segment
+		(start 147.2946 104.7242)
+		(end 147.3242 104.7242)
+		(width 0.6)
+		(layer "B.Cu")
+		(net 68)
+		(uuid "03c2ee30-1e60-4c53-b679-246265d7bda1")
 	)
 	(segment
 		(start 123.8392 119.389801)
@@ -36508,8 +36541,8 @@
 		)
 		(polygon
 			(pts
-				(xy 99.06 66.04) (xy 99.06 127) (xy 182.88 127) (xy 182.88 66.04) (xy 165.75 66) (xy 165.75 113)
-				(xy 136 113) (xy 136 99.5) (xy 131.25 99.5) (xy 131.25 86.5) (xy 123.75 86.5) (xy 123.75 66)
+				(xy 99.05 66.05) (xy 99.06 127) (xy 182.88 127) (xy 182.88 66.04) (xy 165.75 66) (xy 165.75 113)
+				(xy 136 113) (xy 136 99.5) (xy 131.25 99.5) (xy 131.25 86.5) (xy 123.75 86.5) (xy 123.75 66.025)
 			)
 		)
 		(filled_polygon
