@@ -3883,7 +3883,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C865586"
+		(property "LCSC" "C727999"
 			(at 143.51 57.15 0)
 			(effects
 				(font
@@ -3901,7 +3901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "RT0805BRD0760K4L"
+		(property "Manufacturer" "AC0805FR-7W60R4L"
 			(at 143.51 57.15 0)
 			(effects
 				(font
@@ -4401,7 +4401,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C865586"
+		(property "LCSC" "C727999"
 			(at 154.94 123.19 0)
 			(effects
 				(font
@@ -4419,7 +4419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "RT0805BRD0760K4L"
+		(property "Manufacturer" "AC0805FR-7W60R4L"
 			(at 154.94 123.19 0)
 			(effects
 				(font
@@ -4630,7 +4630,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C865586"
+		(property "LCSC" "C727999"
 			(at 142.24 123.19 0)
 			(effects
 				(font
@@ -4648,7 +4648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "RT0805BRD0760K4L"
+		(property "Manufacturer" "AC0805FR-7W60R4L"
 			(at 142.24 123.19 0)
 			(effects
 				(font
@@ -5152,7 +5152,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C865586"
+		(property "LCSC" "C727999"
 			(at 156.21 57.15 0)
 			(effects
 				(font
@@ -5170,7 +5170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "RT0805BRD0760K4L"
+		(property "Manufacturer" "AC0805FR-7W60R4L"
 			(at 156.21 57.15 0)
 			(effects
 				(font

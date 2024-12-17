@@ -11262,7 +11262,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1235410"
+		(property "LCSC" "C114409"
 			(at 97.79 107.95 0)
 			(effects
 				(font
@@ -11271,7 +11271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "stm32f413vgt3"
+		(property "Manufacturer" "STM32H743VIT6"
 			(at 97.79 107.95 0)
 			(effects
 				(font
